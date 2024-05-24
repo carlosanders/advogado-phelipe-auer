@@ -1,0 +1,16 @@
+<!-- Exemplo de sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://phelipeaueradvogado.com/</loc>
+        <lastmod>2024-05-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <!-- Adicione mais URLs conforme necessário -->
+    <url>
+        <loc>https://www.phelipeaueradvogado.com/</loc>
+        <lastmod>2024-05-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+</urlset>
